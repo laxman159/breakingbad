@@ -4,6 +4,7 @@ import axios from "axios";
 import Header from "./components/ui/Header";
 import CharacterGrid from "./components/characters/CharacterGrid";
 import Search from "./components/ui/Search";
+import CharacterQuotes from "./components/characters/CharacterQuotes";
 
 const App = () => {
   const [items, setItems] = useState([]);
@@ -27,6 +28,7 @@ const App = () => {
   return (
     <div className="container">
       <Header />
+      <CharacterQuotes />
       <Search getQuery={(q) => setQuery(q)} />
       <CharacterGrid isLoading={isLoading} items={items} />
     </div>
