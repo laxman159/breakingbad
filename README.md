@@ -4,3 +4,4 @@ and can be used to generate quotes  on the show and gives some data about them. 
 
 
 LIVE DEMO: https://laxman159.github.io/breakingbad/
+![Untitled](https://user-images.githubusercontent.com/56950807/103773810-a83bda80-5051-11eb-8850-e00077257cd1.png)
