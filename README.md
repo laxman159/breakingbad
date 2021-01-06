@@ -4,6 +4,10 @@ CREATED using REACTjs
 
 Live Demo :https://laxman159.github.io/breakingbad/
 
+
+![bb](https://user-images.githubusercontent.com/56950807/103745912-4a45cd80-5026-11eb-93cb-32900419c916.png)
+
+
 One of the best shows on the planet. This is a simple static website for now which displays all the charecters on the show and gives some data about them.
 This website uses React, Framer-Motion, Hooks, etc 
 
