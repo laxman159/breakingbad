@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/breakingbad/static/css/main.295d1863.chunk.css",
-    "main.js": "/breakingbad/static/js/main.771ec5fc.chunk.js",
-    "main.js.map": "/breakingbad/static/js/main.771ec5fc.chunk.js.map",
+    "main.css": "/breakingbad/static/css/main.ea092bc8.chunk.css",
+    "main.js": "/breakingbad/static/js/main.45aae8a0.chunk.js",
+    "main.js.map": "/breakingbad/static/js/main.45aae8a0.chunk.js.map",
     "runtime-main.js": "/breakingbad/static/js/runtime-main.929b2564.js",
     "runtime-main.js.map": "/breakingbad/static/js/runtime-main.929b2564.js.map",
     "static/js/2.abf664ba.chunk.js": "/breakingbad/static/js/2.abf664ba.chunk.js",
     "static/js/2.abf664ba.chunk.js.map": "/breakingbad/static/js/2.abf664ba.chunk.js.map",
     "index.html": "/breakingbad/index.html",
-    "static/css/main.295d1863.chunk.css.map": "/breakingbad/static/css/main.295d1863.chunk.css.map",
+    "static/css/main.ea092bc8.chunk.css.map": "/breakingbad/static/css/main.ea092bc8.chunk.css.map",
     "static/js/2.abf664ba.chunk.js.LICENSE.txt": "/breakingbad/static/js/2.abf664ba.chunk.js.LICENSE.txt",
     "static/media/App.css": "/breakingbad/static/media/bg.085908ea.jpg",
     "static/media/logo.e6ecab44.png": "/breakingbad/static/media/logo.e6ecab44.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.929b2564.js",
     "static/js/2.abf664ba.chunk.js",
-    "static/css/main.295d1863.chunk.css",
-    "static/js/main.771ec5fc.chunk.js"
+    "static/css/main.ea092bc8.chunk.css",
+    "static/js/main.45aae8a0.chunk.js"
   ]
 }
