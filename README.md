@@ -24,8 +24,8 @@
 
 ## Instructions to run
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
-$ cd <Project>
+$ git clone https://github.com/breakingbad
+$ cd breakingbad
 $ yarn
 $ yarn start
 ```
