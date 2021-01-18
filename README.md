@@ -18,6 +18,7 @@
 - Details about characters
 - Swift animations
 - TheBreakingBadApi
+- Random BreakingBad Quotes
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/56950807/103773810-a83bda80-5051-11eb-8850-e00077257cd1.png" alt="Project Screenshots">
