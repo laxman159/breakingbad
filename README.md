@@ -3,7 +3,7 @@
 
 <p align="center"><a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEygac0tVAaBJ4OzYdJnSo2nPGh2ycVUOIQ&usqp=CAU" title="Breaking Bad Cards" alt="Breaking bad"></a>
 </p>
-LIVE: (https://laxman159.github.io/breakingbad/)
+
 
 
 
@@ -15,6 +15,8 @@ LIVE: (https://laxman159.github.io/breakingbad/)
 ---
 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://laxman159.github.io/breakingbad/)
+  
+  LIVE: (https://laxman159.github.io/breakingbad/)
 
 ## Features
 - Character Cards
